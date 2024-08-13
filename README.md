@@ -53,6 +53,10 @@ AWS Graviton2, 64 Cores, Arm Neoverse, 2rd gen, 2020-Q1                        |
 Sun/Oracle SPARC T4, 2.85GHz, 8 cores, 2011-Q3                                 | 98ns
 IBM Power7, 3.3GHz, 8 Cores, 2010-Q1                                           | 173ns
 IBM PowerPC 970, 1.8GHz, 2 Cores, 2003-Q2                                      | 576ns
+Loongson 3A5000HV, 2.5GHz, 4 Cores, 2021-Q3                                    | 40ns
+Loongson 3C5000, 2.2GHz, 16 Cores, 2022-Q2                                     | 53ns
+Loongson 3A6000HV, 2.5GHz, 4 Cores, 2023-Q4                                    | 39ns
+
 
 ## Intel Xeon Phi 7210, 64 Cores, Knights Landing, 2016-Q2
 
@@ -91,6 +95,18 @@ Data provided by [SchrodingerZhu](https://github.com/SchrodingerZhu).
 Data provided by [Glavo](https://github.com/Glavo).
 
 ![image](https://user-images.githubusercontent.com/33325023/212898113-8605327a-ff34-4f57-a46a-ee488c3437c8.png)
+
+## Loongson 3C5000, 2.2GHz, 16 Cores, 2022-Q2
+
+Data provided by [KatyushaScarlet](https://github.com/KatyushaScarlet).
+
+![Loongson 3C5000, 2 2GHz, 16 Cores, 2022-Q2](https://github.com/user-attachments/assets/0b9d924c-36bc-4321-9316-cab89b883fdd)
+
+## Loongson 3A6000HV, 2.5GHz, 4 Cores, 2023-Q4
+
+Data provided by [KatyushaScarlet](https://github.com/KatyushaScarlet).
+
+![Loongson 3A6000HV, 2 5GHz, 4 Cores, 2023-Q4](https://github.com/user-attachments/assets/6337c77e-3923-4eef-927e-b97a0bcafbfe)
 
 ## Intel Core i9-12900K, 8P+8E Cores, Alder Lake, 12th gen, 2021-Q4
 
@@ -266,6 +282,7 @@ Intel Xeon E5-2695 v4, 2.10GHz, 18 Cores, Broadwell, 5th gen, 2016-Q1          |
 AMD EPYC 7R13, 48 Cores, Milan, 3rd gen, 2021-Q1                               | 197ns
 Sun/Oracle SPARC T4, 2.85GHz, 8 cores, 2011-Q3                                 | 356ns (3.6x)
 IBM Power7, 3.3GHz, 8 Cores, 2010-Q1                                           | 443ns (2.5x)
+Loongson 3B4000, 1.8GHz, 8 Cores, 2019-Q4                                      | 369ns
 
 ## Dual Intel Xeon Gold 6242, 16 Cores, Cascade Lake, 2019-Q2
 
@@ -316,6 +333,12 @@ Data provided by [Kokoa van Houten](https://github.com/koachan).
 Data provided by [Kokoa van Houten](https://github.com/koachan).
 
 <img src="https://user-images.githubusercontent.com/297060/190960588-e079d97d-a028-4da7-ac55-ae982e1cd430.png" width="530" />
+
+## Dual Loongson 3B4000, 1.8GHz, 8 Cores, 2019-Q4
+
+Data provided by [KatyushaScarlet](https://github.com/KatyushaScarlet).
+
+![Dual Loongson 3B4000, 1 8GHz, 8 Cores, 2019-Q4](https://github.com/user-attachments/assets/34df3110-2a5f-4c64-9083-50b5152b3afd)
 
 Hyper-threads
 -------------
